@@ -1,13 +1,8 @@
 func isPalindrome(s string) bool {
-    var r string
-    for _, c := range s {
-        if unicode.IsLetter(c) || unicode.IsDigit(c) {
-            r += string(c)
-        }
-    }
-    r = strings.ToLower(r)
-    for i := 0; i < len(r)/2; i++ {
-        if r[i] != r[len(r)-i-1] {
+    r := regexp.MustCompile("[^a-zA-Z0-9]+")
+    ss := r.ReplaceAllString(strings.ToLower(s), "")
+    for i := 0; i < len(ss)/2; i++ {
+        if ss[i] != ss[len(ss)-i-1] {
             return false
         }
     }
