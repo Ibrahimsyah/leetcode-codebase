@@ -6,12 +6,11 @@ func uniquePaths(m int, n int) int {
                 dp[key(i,j)] = 1
                 continue
             }
-            
+
             dp[key(i,j)] = dp[key(i-1, j)] + dp[key(i, j-1)]
         }
     }
 
-    fmt.Println(dp)
     return dp[key(m-1, n-1)]
 }
 
