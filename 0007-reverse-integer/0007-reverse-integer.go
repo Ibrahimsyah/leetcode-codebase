@@ -7,7 +7,6 @@ func reverse(x int) int {
         target /= 10
     }
 
-    fmt.Println(nums)
     res := 0
     for _, n:= range nums {
         res = res * 10 + n
