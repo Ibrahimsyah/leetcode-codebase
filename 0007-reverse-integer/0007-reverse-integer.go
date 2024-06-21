@@ -1,23 +1,19 @@
 func reverse(x int) int {
-    s := 1
-    var r int64
-    if x < 0 {
-        s = -1
-        x *= s
+    target := x
+
+    var nums []int
+    for target != 0 {
+        nums = append(nums, target % 10)
+        target /= 10
     }
 
-    for {
-        if x <= 0 {
-            break
+    res := 0
+    for _, n:= range nums {
+        res = res * 10 + n
+        if res > math.MaxInt32 || res < math.MinInt32 {
+            return 0
         }
-
-        r = r*10 + int64(x%10)
-        x /= 10
     }
 
-    if r < math.MinInt32 || r > math.MaxInt32 {
-        return 0
-    }
-
-    return int(r) * s 
+    return res
 }
