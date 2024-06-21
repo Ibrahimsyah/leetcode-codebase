@@ -1,20 +1,14 @@
 func isPalindrome(x int) bool {
     target := x
-    if target < 0 {
+    if target < 0 || (x != 0 && target % 10 == 0){
         return false
     }
 
-    digits := []int{}
+    reversed := 0
     for target != 0 {
-        digits = append(digits, target % 10)
+        reversed = reversed * 10 + target % 10
         target /= 10
     }
 
-    for i := range digits {
-        if digits[i] != digits[len(digits) - i - 1] {
-            return false
-        }
-    }
-
-    return true
+    return reversed == x
 }
