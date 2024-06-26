@@ -1,29 +1,19 @@
 func longestCommonPrefix(strs []string) string {
-    minimumArrayLen := len(strs[0])
-    for _, str := range strs {
-        if len(str) < minimumArrayLen {
-            minimumArrayLen = len(str)
+    sort.Slice(strs, func(i, j int) bool { return strs[i] < strs[j]})
+    minLength := math.MaxInt32
+    for _, s := range strs {
+        if len(s) < minLength {
+            minLength = len(s)
         }
     }
 
-    substr := ""
-    for i := 0; i < minimumArrayLen; i++ {
-        if isCharCommon(strs[0][i], strs, i) {
-            substr += string(strs[0][i])
-        } else {
-            return substr
+    result := ""
+    for i := 0; i < minLength; i++ {
+        if strs[0][i] != strs[len(strs)-1][i] {
+            return result 
         }
-    }
-    
-    return substr
-}
-
-func isCharCommon(c byte, strs []string, charIndex int) bool {
-    for _, str := range strs {
-        if str[charIndex] != c {
-            return false
-        }
+        result += string(strs[0][i])
     }
 
-    return true
+    return result
 }
