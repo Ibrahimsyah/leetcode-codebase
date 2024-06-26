@@ -1,14 +1,14 @@
 func isPalindrome(x int) bool {
-    target := x
-    if target < 0 || (x != 0 && target % 10 == 0){
+    if x < 0 {
         return false
     }
-
-    reversed := 0
-    for target != 0 {
-        reversed = reversed * 10 + target % 10
-        target /= 10
+    
+    r := 0
+    c := x
+    for c != 0 {
+        r = r * 10 + c % 10
+        c /= 10
     }
 
-    return reversed == x
+    return r == x
 }
