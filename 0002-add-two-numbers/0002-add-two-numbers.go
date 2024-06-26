@@ -6,22 +6,19 @@
  * }
  */
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
-    var r *ListNode
-    var c *ListNode
-    var s int
-    for {
-        if l1 == nil && l2 == nil && s == 0 {
-            break
-        }
+    if l1 == nil {
+        return l2
+    }
 
-        if c != nil {
-            c.Next = &ListNode{}
-            c = c.Next
-        } else {
-            c = &ListNode{}
-        }
+    if l2 == nil {
+        return l1
+    }
 
-        val := s
+    var result, head *ListNode
+    remainder := 0
+    for l1 != nil || l2 != nil {
+        val := remainder
+
         if l1 != nil {
             val += l1.Val
             l1 = l1.Next
@@ -31,14 +28,23 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
             val += l2.Val
             l2 = l2.Next
         }
+        remainder = val / 10
+        if val >= 10 {
+            val -= 10
+        }
 
-        s = val / 10
-        val = val % 10
-        c.Val = val
-        if r == nil {
-            r = c
+        if result == nil {
+            result = &ListNode{Val: val}
+            head = result
+        } else {
+            result.Next = &ListNode{Val: val}
+            result = result.Next
         }
     }
+    
+    if remainder != 0 {
+        result.Next = &ListNode{Val: remainder}
+    }
 
-    return r
+    return head
 }
