@@ -1,14 +1,10 @@
 func removeDuplicates(nums []int) int {
-    m := make(map[int]struct{})
-    ci := 0
-    for _, n := range nums {
-        if _, f := m[n]; f {
-            continue
+    j := 1
+    for i := 1; i < len(nums); i++ {
+        if nums[i] != nums[i - 1] {
+            nums[j] = nums[i]
+            j++
         }
-        m[n] = struct{}{}
-        nums[ci] = n
-        ci++
-    }
-
-    return len(m)
+    } 
+    return j
 }
