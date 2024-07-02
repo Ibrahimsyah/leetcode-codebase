@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0062-unique-paths) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1806-count-of-matches-in-tournament) |
 ## Recursion
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Breadth-First Search
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1806-count-of-matches-in-tournament) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
