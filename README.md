@@ -4,14 +4,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0100-same-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0100-same-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0100-same-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Array
 |  |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
