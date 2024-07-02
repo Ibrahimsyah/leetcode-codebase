@@ -1,10 +1,16 @@
 func maxProfit(prices []int) int {
-    m := 0
-    lp := prices[0]
+    price := math.MaxInt32
+    res := 0
     for _, p := range prices {
-        lp = int(math.Min(float64(lp), float64(p)))
-        m = int(math.Max(float64(m), float64(p - lp)))
+        if p < price {
+            price = p
+        }
+
+        profit := p - price
+        if profit > res {
+            res = profit
+        }
     }
 
-    return m
+    return res
 }
