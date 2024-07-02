@@ -4,16 +4,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0100-same-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0100-same-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0100-same-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Array
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0094-binary-tree-inorder-traversal) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
