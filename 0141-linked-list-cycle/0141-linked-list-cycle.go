@@ -6,17 +6,12 @@
  * }
  */
 func hasCycle(head *ListNode) bool {
-    t := head
-    h := head
-    for {
-        if t == nil || h == nil || h.Next == nil {
-            return false
-        }
+    s, f := head, head
+    for f != nil && f.Next != nil {
+        f = f.Next.Next
+        s = s.Next
 
-        t = t.Next
-        h = h.Next.Next
-
-        if t != nil && h != nil && t == h {
+        if f == s {
             return true
         }
     }
