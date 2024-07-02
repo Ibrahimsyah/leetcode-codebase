@@ -1,5 +1,13 @@
 func lengthOfLastWord(s string) int {
-    str := strings.TrimSpace(s)
-    words := strings.Split(str, " ")
-    return len(words[len(words) - 1])
+    s = strings.TrimSpace(s)
+    r := 0
+    for _, c := range s {
+        if string(c) == " " {
+            r = 0
+        } else {
+            r++
+        }
+    }
+
+    return r
 }
