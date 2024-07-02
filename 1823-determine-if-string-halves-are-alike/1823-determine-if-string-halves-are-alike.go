@@ -1,5 +1,5 @@
 func halvesAreAlike(s string) bool {
-    vowels := map[string]struct{}{
+    v := map[string]struct{}{
         "a": {},
         "i": {},
         "u": {},
@@ -7,21 +7,19 @@ func halvesAreAlike(s string) bool {
         "o": {},
     }
 
-    a := s[:len(s)/2]
-    b := s[len(s)/2:]
-    
-    var aC, bC uint8
-    for _, c := range a {
-        if _, f := vowels[strings.ToLower(string(c))]; f {
-            aC++
-        } 
+    s = strings.ToLower(s)
+    c := 0
+    for i, ch := range s {
+        if _, f := v[string(ch)]; !f {
+            continue
+        }        
+
+        if i < len(s) / 2 {
+            c++
+        } else {
+            c--
+        }
     }
 
-    for _, c := range b {
-        if _, f := vowels[strings.ToLower(string(c))]; f {
-            bC++
-        } 
-    }
-
-    return aC == bC
+    return c == 0
 }
