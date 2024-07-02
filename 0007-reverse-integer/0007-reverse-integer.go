@@ -1,12 +1,13 @@
 func reverse(x int) int {
-    r, c := 0, x
-    for c != 0 {
-        r = 10 * r + c%10
-        if r > math.MaxInt32 || r < math.MinInt32 {
-            return 0
-        }
-        c /= 10
+    r := 0
+    for x != 0 {
+        r = r*10 + x%10
+        x /= 10
     }
 
-    return r   
+    if r >= math.MaxInt32 || r < math.MinInt32 {
+        return 0
+    }
+
+    return r
 }
