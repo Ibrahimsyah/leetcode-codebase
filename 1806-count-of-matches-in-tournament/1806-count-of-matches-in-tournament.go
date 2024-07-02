@@ -1,16 +1,14 @@
 func numberOfMatches(n int) int {
-    teams := n
-    var matches int
-    for teams > 1 {
-        matches += teams / 2
-        
-        if teams % 2 == 0 {
-            teams /= 2
-            continue
+    m := 0
+    for n > 1 {
+        if n%2 == 0 {
+            m += n / 2
+            n /= 2
+        } else {
+            m += (n-1)/2
+            n = (n-1)/2 + 1
         }
-
-        teams = teams/2 + 1
     }
 
-    return matches
+    return m
 }
