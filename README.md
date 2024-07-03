@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0145-binary-tree-postorder-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0145-binary-tree-postorder-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0145-binary-tree-postorder-traversal) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Array
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0125-valid-palindrome) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Dynamic Programming
@@ -136,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1030-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
