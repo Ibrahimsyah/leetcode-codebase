@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0141-linked-list-cycle) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -155,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0036-valid-sudoku) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
