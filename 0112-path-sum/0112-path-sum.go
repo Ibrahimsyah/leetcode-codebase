@@ -16,7 +16,6 @@ func hasPathSum(root *TreeNode, targetSum int) bool {
     dfs = func(n *TreeNode, sum int) {
         sum += n.Val
         if n.Left == nil && n.Right == nil {
-            fmt.Println(n, sum)
             if sum == targetSum {
                 res = true
             }
