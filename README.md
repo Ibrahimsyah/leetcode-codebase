@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0036-valid-sudoku) |
 | [0118-pascals-triangle](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2398-check-if-matrix-is-x-matrix) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Linked List
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1236-n-th-tribonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1806-count-of-matches-in-tournament) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2955-account-balance-after-rounded-purchase) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0374-guess-number-higher-or-lower) |
 ## Counting
@@ -175,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
