@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Matrix
