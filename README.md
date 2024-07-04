@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0046-permutations) |
 | [0118-pascals-triangle](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1030-smallest-string-starting-from-leaf) |
