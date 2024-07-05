@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
