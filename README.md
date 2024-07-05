@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0046-permutations) |
+| [0088-merge-sorted-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0141-linked-list-cycle) |
 ## Greedy
@@ -202,5 +204,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
