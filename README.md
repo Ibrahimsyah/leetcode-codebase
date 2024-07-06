@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0257-binary-tree-paths) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0257-binary-tree-paths) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0226-invert-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Stack
 |  |
