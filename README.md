@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Linked List
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1236-n-th-tribonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1806-count-of-matches-in-tournament) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
