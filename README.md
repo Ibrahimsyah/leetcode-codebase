@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1331-path-with-maximum-gold) |
 | [1677-matrix-diagonal-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1236-n-th-tribonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1806-count-of-matches-in-tournament) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2955-account-balance-after-rounded-purchase) |
 ## Recursion
 |  |
@@ -193,10 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0258-add-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1806-count-of-matches-in-tournament) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Memoization
 |  |
 | ------- |
