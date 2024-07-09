@@ -258,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0258-add-digits) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
