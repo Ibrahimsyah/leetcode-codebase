@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0792-binary-search) |
 | [1331-path-with-maximum-gold](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1331-path-with-maximum-gold) |
 | [1677-matrix-diagonal-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1677-matrix-diagonal-sum) |
+| [1803-average-waiting-time](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1803-average-waiting-time) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2386-min-max-game) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0258-add-digits) |
+| [1803-average-waiting-time](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1803-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1806-count-of-matches-in-tournament) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2386-min-max-game) |
