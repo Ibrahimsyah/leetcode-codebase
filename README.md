@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0345-reverse-vowels-of-a-string) |
 | [0953-reverse-only-letters](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0953-reverse-only-letters) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0145-binary-tree-postorder-traversal) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
