@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1236-n-th-tribonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1395-minimum-time-visiting-all-points) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1806-count-of-matches-in-tournament) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2238-a-number-after-a-double-reversal) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2955-account-balance-after-rounded-purchase) |
 ## Recursion
