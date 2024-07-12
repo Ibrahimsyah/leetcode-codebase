@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0792-binary-search) |
 | [1331-path-with-maximum-gold](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1331-path-with-maximum-gold) |
 | [1677-matrix-diagonal-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1677-matrix-diagonal-sum) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1803-average-waiting-time) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2594-count-pairs-of-similar-strings) |
 ## Linked List
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0345-reverse-vowels-of-a-string) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2594-count-pairs-of-similar-strings) |
 ## Dynamic Programming
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2594-count-pairs-of-similar-strings) |
 ## Sorting
 |  |
