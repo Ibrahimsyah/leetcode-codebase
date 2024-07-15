@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2594-count-pairs-of-similar-strings) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
