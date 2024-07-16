@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1806-count-of-matches-in-tournament) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2238-a-number-after-a-double-reversal) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2955-account-balance-after-rounded-purchase) |
 ## Recursion
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0011-container-with-most-water) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2715-k-items-with-the-maximum-sum) |
 ## String
 |  |
 | ------- |
