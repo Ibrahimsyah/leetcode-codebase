@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1019-squares-of-a-sorted-array) |
 | [1331-path-with-maximum-gold](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1331-path-with-maximum-gold) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1395-minimum-time-visiting-all-points) |
 | [1677-matrix-diagonal-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1677-matrix-diagonal-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0953-reverse-only-letters) |
+| [1019-squares-of-a-sorted-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1019-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Greedy
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0347-top-k-frequent-elements) |
+| [1019-squares-of-a-sorted-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
