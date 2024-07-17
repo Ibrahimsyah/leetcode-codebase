@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1803-average-waiting-time) |
+| [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2324-find-triangular-sum-of-an-array) |
