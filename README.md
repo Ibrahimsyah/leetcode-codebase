@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2594-count-pairs-of-similar-strings) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/3398-make-a-square-with-the-same-color) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2594-count-pairs-of-similar-strings) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Linked List
 |  |
 | ------- |
