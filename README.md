@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-min-max-game](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2386-min-max-game) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2594-count-pairs-of-similar-strings) |
+| [3398-make-a-square-with-the-same-color](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/3398-make-a-square-with-the-same-color) |
 ## Hash Table
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [3398-make-a-square-with-the-same-color](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/3398-make-a-square-with-the-same-color) |
 ## Interactive
 |  |
 | ------- |
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3398-make-a-square-with-the-same-color](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/3398-make-a-square-with-the-same-color) |
 <!---LeetCode Topics End-->
