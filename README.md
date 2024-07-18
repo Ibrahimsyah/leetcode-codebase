@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2594-count-pairs-of-similar-strings) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
