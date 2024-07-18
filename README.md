@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1236-n-th-tribonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1395-minimum-time-visiting-all-points) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1806-count-of-matches-in-tournament) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2238-a-number-after-a-double-reversal) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2128-reverse-prefix-of-word](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2341-count-prefixes-of-a-given-string) |
