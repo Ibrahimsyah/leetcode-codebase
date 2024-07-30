@@ -1,36 +1,26 @@
 func coinChange(coins []int, amount int) int {
-    m := make(map[int]int)
+    m := make([]int, amount + 1)
+    for i := range m {
+        m[i] = amount + 1
+    }
     m[0] = 0
-    var solve func(target int, coins []int) int
-    solve = func(target int, coins []int) int {
-        if v, f := m[target];f {
-            return v
-        }
-        
-        if target == 0 {
-            return 0
-        }
 
-        answer := math.MaxInt32
+    for i := 1; i <= amount; i++ {
         for _, c := range coins {
-            sub := target - c
+            sub := i - c
             if sub < 0 {
                 continue
             }
 
-            answer = min(answer, solve(sub, coins) + 1)
+            m[i] = min(m[i], m[sub] + 1)
         }
-        
-        m[target] = answer
-        return answer
     }
 
-    answer := solve(amount, coins)
-    if answer >= 0 && answer != math.MaxInt32 {
-        return answer
+    if m[amount] == amount + 1 {
+        return -1
     }
 
-    return -1
+    return m[amount]
 }
 
 func min (a, b int) int {
