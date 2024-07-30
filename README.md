@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0347-top-k-frequent-elements) |
+| [0494-target-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0494-target-sum) |
 | [0792-binary-search](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1019-squares-of-a-sorted-array) |
 | [1331-path-with-maximum-gold](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1331-path-with-maximum-gold) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0494-target-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0494-target-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1236-n-th-tribonacci-number) |
 ## Breadth-First Search
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0077-combinations) |
 | [0257-binary-tree-paths](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0494-target-sum) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1331-path-with-maximum-gold](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1331-path-with-maximum-gold) |
 ## Matrix
