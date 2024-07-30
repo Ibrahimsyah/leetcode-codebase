@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0011-container-with-most-water) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2715-k-items-with-the-maximum-sum) |
 ## String
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2594-count-pairs-of-similar-strings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Dynamic Programming
