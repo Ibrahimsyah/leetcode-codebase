@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0494-target-sum) |
 | [0792-binary-search](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0792-binary-search) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0494-target-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1236-n-th-tribonacci-number) |
 ## Breadth-First Search
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0322-coin-change) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Stack
 |  |
