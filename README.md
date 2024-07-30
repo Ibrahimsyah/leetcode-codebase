@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0118-pascals-triangle) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0055-jump-game) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2715-k-items-with-the-maximum-sum) |
 ## String
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0118-pascals-triangle) |
