@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0682-baseball-game) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -388,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
