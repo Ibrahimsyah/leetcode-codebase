@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0782-jewels-and-stones) |
+| [1297-maximum-number-of-balloons](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1297-maximum-number-of-balloons) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2594-count-pairs-of-similar-strings) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0953-reverse-only-letters) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1297-maximum-number-of-balloons](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1297-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0383-ransom-note) |
+| [1297-maximum-number-of-balloons](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1297-maximum-number-of-balloons) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Simulation
 |  |
