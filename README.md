@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0202-happy-number) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0242-valid-anagram) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0217-contains-duplicate) |
