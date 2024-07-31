@@ -1,19 +1,20 @@
 func longestCommonPrefix(strs []string) string {
-    sort.Slice(strs, func(i, j int) bool { return strs[i] < strs[j]})
-    minLength := math.MaxInt32
-    for _, s := range strs {
-        if len(s) < minLength {
-            minLength = len(s)
+    min := len(strs[0])
+    for _, sub := range strs {
+        if len(sub) < min {
+            min = len(sub)
         }
     }
 
-    result := ""
-    for i := 0; i < minLength; i++ {
-        if strs[0][i] != strs[len(strs)-1][i] {
-            return result 
+    i := 0
+    for i < min {
+        for _, str := range strs {
+            if strs[0][i] != str[i] {
+                return str[:i]
+            }
         }
-        result += string(strs[0][i])
+        i++
     }
 
-    return result
+    return strs[0][:i]
 }
