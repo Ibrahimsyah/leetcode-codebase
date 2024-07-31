@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0494-target-sum) |
+| [0682-baseball-game](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1019-squares-of-a-sorted-array) |
 | [1331-path-with-maximum-gold](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1331-path-with-maximum-gold) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0682-baseball-game) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0682-baseball-game) |
 | [1803-average-waiting-time](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1803-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1806-count-of-matches-in-tournament) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2324-find-triangular-sum-of-an-array) |
