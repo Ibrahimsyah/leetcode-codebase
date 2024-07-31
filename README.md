@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2350-find-closest-number-to-zero](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2350-find-closest-number-to-zero) |
 | [2386-min-max-game](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2386-min-max-game) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/2594-count-pairs-of-similar-strings) |
