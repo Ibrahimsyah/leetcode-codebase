@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0953-reverse-only-letters) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1019-squares-of-a-sorted-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0953-reverse-only-letters](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0953-reverse-only-letters) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/0494-target-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/Ibrahimsyah/leetcode-codebase/tree/master/1236-n-th-tribonacci-number) |
 ## Breadth-First Search
